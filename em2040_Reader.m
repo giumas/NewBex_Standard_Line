@@ -16,7 +16,9 @@ GitVersion: 1
 date:7/13/2014
 %}
 
-clc; clear; close all;
+clc; 
+clear; 
+close all;
 
 addpath(genpath('NewBex_Standard_Line\Em file reader'))
 DIR=pwd;
